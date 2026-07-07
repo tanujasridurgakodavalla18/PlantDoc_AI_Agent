@@ -1,2 +1,15 @@
-# plant-disease-detection-ai-agent
-An AI-powered Plant Disease Detection Agent using Deep Learning, Gradio, and TensorFlow that identifies plant diseases from leaf images and provides treatment suggestions.
+---
+title: PlantDoc AI Agent
+emoji: 🏢
+colorFrom: indigo
+colorTo: red
+sdk: gradio
+sdk_version: 6.19.0
+python_version: '3.13'
+app_file: app.py
+pinned: false
+license: mit
+short_description: AI plant disease detection and recommendation system.
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
