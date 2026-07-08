@@ -72,7 +72,7 @@ Treatment & Prevention Recommendations
 
 ### 🏠 Home Page
 
-![Home Page](home.png)
+![Home Page](home.png.png)
 
 ### 🔍 Prediction Result
 
